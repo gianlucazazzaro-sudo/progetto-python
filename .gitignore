@@ -1,0 +1,15 @@
+# Ignora le cartelle temporanee di Python
+__pycache__/
+*.pyc
+
+# Ignora l'ambiente virtuale (se ne usi uno)
+.venv/
+env/
+venv/
+ENV/
+
+# Ignora i file di configurazione di VS Code (opzionale)
+.vscode/
+
+# Ignora file segreti che contengono password o chiavi API
+.env
