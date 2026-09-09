@@ -1,0 +1,7 @@
+ORDINE - Cliente: carlo_verdi - Prodotto: Giacca - Prezzo: 120.00 EUR
+VISITA - Cliente: sara_f - Prodotto: Scarpe
+ORDINE - Cliente: marta_rossi - Prodotto: Maglione - Prezzo: 45.50 EUR
+ORDINE - Cliente: carlo_verdi - Prodotto: Camicia - Prezzo: 35.00 EUR
+VISITA - Cliente: marta_rossi - Prodotto: Jeans
+ORDINE - Cliente: luca_bianchi - Prodotto: Scarpe - Prezzo: 89.99 EUR
+ORDINE - Cliente: marta_rossi - Prodotto: T-Shirt - Prezzo: 19.99 EUR
