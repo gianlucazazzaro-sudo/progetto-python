@@ -60,7 +60,7 @@ with pd.ExcelWriter("report_spese_clienti.xlsx", engine="openpyxl") as writer:
 
 print("\n[OK] File Excel 'report_spese_clienti.xlsx' aggiornato con due fogli!")
 
-print("\n[OK] File Excel 'report_spese_clienti.xlsx' creato con successo!")
+
 df.to_csv("report_spese_clienti.csv", index=False, sep=";")
 print("[OK] File CSV 'report_spese_clienti.csv' creato con successo!")
 
